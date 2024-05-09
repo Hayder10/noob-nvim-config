@@ -11,6 +11,9 @@ return {
       default = { "#BDA7E9" },
       test = { "#FFA0FF" },
     },
+    highlights = {
+      keyword = "bg",
+    },
     keywords = {
       -- FIXME: Ayuda
       FIX = {
