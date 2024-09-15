@@ -1,4 +1,4 @@
-# 💤 LazyVim
+# 💤 LazyVim setup for python development
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+`git clone https://github.com/Hayder10/noob-nvim-config.git ~/.config/nvim`
+
