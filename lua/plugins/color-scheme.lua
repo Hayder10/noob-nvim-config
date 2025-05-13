@@ -3,5 +3,7 @@ return {
   name = "gruvbox-material",
   lazy = false,
   priority = 1000,
-  opts = {},
+  opts = {
+    italics = true,
+  },
 }
